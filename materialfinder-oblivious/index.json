@@ -1,19 +1,19 @@
 {
-	"name": "materialfinder.oblivious Releases",
+	"name": "easymaterialfinder.oblivious Releases",
 	"author": "Oblivious",
 	"url": "https://obliviousvr.github.io/Easy-Material-Finder/index.json",
 	"packages": {
-		"materialfinder.oblivious": {
+		"easymaterialfinder.oblivious": {
 			"versions": {
-				"0.2.0": {
-					"name": "materialfinder.oblivious",
+				"0.2.1": {
+					"name": "easymaterialfinder.oblivious",
 					"displayName": "Easy Material Finder",
-					"version": "0.2.0",
+					"version": "0.2.1",
 					"description": "A Unity Editor Tool to help you quickly select all materials attached to a gameobject and it's children.",
 					"gitDependencies": {},
 					"vpmDependencies": {},
 					"hideInEditor": false,
-					"url": "https://github.com/ObliviousVR/Easy-Material-Finder/releases/download/Releases/materialfinder.oblivious.zip",
+					"url": "https://github.com/ObliviousVR/Easy-Material-Finder/releases/download/Releases/easymaterialfinder.oblivious.zip",
 					"legacyFolders": {},
 					"legacyFiles": {}
 				}
